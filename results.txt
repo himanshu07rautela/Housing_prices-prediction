@@ -1,0 +1,17 @@
+Key Metrics:
+Mean Squared Error (MSE): 4.91 billion
+Root Mean Squared Error (RMSE): 70,060
+R-squared (R²): 0.625
+
+Files Included:
+- housing.csv: The dataset used for training and evaluation.
+- lregression.ipynb: Jupyter Notebook containing the entire workflow from data loading to model evaluation.
+
+How to Use:
+1) Clone the repository.
+2) Install the necessary libraries: pandas, numpy, matplotlib, seaborn, scikit-learn.
+3) Open housing.ipynb in Jupyter Notebook and run the cells to see the analysis and results.
+
+Acknowledgements:
+- Data sourced from the 1990 California census and initially featured in the paper by Pace and Barry.
+- Project inspired by "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron.
