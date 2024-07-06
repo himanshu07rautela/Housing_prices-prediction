@@ -28,7 +28,7 @@ The dataset contains information from the 1990 California census. It includes va
 
 1. Clone the repository:
    ```bash
-   # California Housing Prices - Linear Regression
+   # Housing_prices-prediction
 
 This project uses the California Housing Prices dataset to predict house prices using a Linear Regression model.
 
